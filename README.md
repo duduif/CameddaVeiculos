@@ -40,8 +40,17 @@ O arquivo `transacoes.csv` registra automaticamente:
 
 ---
 
+## 🎥 Demonstração em Vídeo
+
+O vídeo solicitado, mostrando a aplicação conectando ao banco e realizando uma consulta, está disponível em:
+
+👉 **https://youtu.be/t2jjiZnBVao?si=DCLWiWfcvpQaEWSn**
+
+---
+
 ## 👥 Autores
 
 - Eduardo Ferreira  
 - Luna Camedda  
 - Yan Carlo  
+
